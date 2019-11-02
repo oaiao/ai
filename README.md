@@ -22,7 +22,7 @@ jupyter notebook password
  ```
  - 启动
  ```
- nohup jupyter lab --ip=0.0.0.0 --port=8080 &
+ nohup jupyter lab --ip=0.0.0.0 --port=8080 > /dev/null 2>&1 &
  ```
 ## 3.创建访问链接 & 登录 jupyter
 - 将端口号设置为 `8080`, 点击【创建链接】生成访问链接。
