@@ -15,15 +15,25 @@ sudo pip install -i https://pypi.tuna.tsinghua.edu.cn/simple jupyterlab
 jupyter notebook password
 ```
 
+- 指定工作目录
+```
+Jupyter notebook --generate-config
+vi /Users/yuxiang/.jupyter/jupyter_notebook_config.py 
+## 修改配置用于笔记本和内核的目录。
+c.NotebookApp.notebook_dir = '/Users/yuxiang/Documents/explore/ai'
+```
+
 ## 2.启动 jupyterlab
 - 由于 pandas 库问题。需要先运行
- ```
+```
  sudo sed -i 's/pandas.lib/pandas/g' /usr/local/lib/python3.5/dist-packages/ggplot/stats/smoothers.py
- ```
- - 启动
- ```
+```
+
+- 启动
+```
  nohup jupyter lab --ip=0.0.0.0 --port=8080 > /dev/null 2>&1 &
- ```
+```
+ 
 ## 3.创建访问链接 & 登录 jupyter
 - 将端口号设置为 `8080`, 点击【创建链接】生成访问链接。
 - 浏览器地址栏里粘贴 & 后边输入 /lab
