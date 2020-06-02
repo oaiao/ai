@@ -30,5 +30,9 @@ jupyter notebook password
 
 ## 更新 jupyterlab
 ```
-sudo pip install --upgrade jupyterlab  -i https://pypi.tuna.tsinghua.edu.cn/simple 
+sudo pip install --upgrade -i https://pypi.tuna.tsinghua.edu.cn/simple jupyterlab 
+```
+## python3 环境更新 pip 模块
+```
+sudo python3 -m pip install --upgrade -i https://pypi.tuna.tsinghua.edu.cn/simple pip
 ```
