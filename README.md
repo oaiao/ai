@@ -46,6 +46,6 @@ Machine Learing
 
 ## Git 添加远程仓库
 ```
-git remote add github git@github.com:honghuhu/explore.git
-git pull github ai [分支]
+git remote add [github|仓库名] git@github.com:honghuhu/explore.git
+git pull [github|仓库名] [分支]
 ```
