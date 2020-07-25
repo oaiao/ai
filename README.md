@@ -50,7 +50,7 @@ Machine Learing
     git pull [github|仓库名] [分支]
     ```
 
-## pip 安装依赖并指定版本, 不过最新版 pip3 => tensoflow (0.0.5) 也是可以用的
+## pip 安装依赖并指定版本, 不过最新版 python3 => tensoflow (1.14.0) 也是可以用的
     ```
     pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow==1.12.0
     ```
