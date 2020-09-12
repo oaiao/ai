@@ -15,7 +15,7 @@ Machine Learing
         ```
     - 指定工作目录
         ```
-        Jupyter notebook --generate-config
+        jupyter notebook --generate-config
         vi /Users/yuxiang/.jupyter/jupyter_notebook_config.py 
         ## 修改配置用于笔记本和内核的目录。
         c.NotebookApp.notebook_dir = '/Users/yuxiang/Documents/explore/ai'
