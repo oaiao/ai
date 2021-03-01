@@ -4,7 +4,7 @@ autoOpen: true # 打开工作空间时是否自动开启所有应用的预览
 apps:
   - port: 8888 # 应用的端口
     # run: nohup jupyter lab --allow-root --ip=0.0.0.0 --port=8888 > /dev/null 2>&1 & # 应用的启动命令
-    run: nohup jupyter lab --allow-root --ip=0.0.0.0 --port=8888 > /dev/null 2>&1 &
+    run: nohup jupyter notebook --allow-root --ip=0.0.0.0 --port=8888 > /dev/null 2>&1 &
     root: ./ai # 应用的启动目录
     name: ai # 应用名称
     description: Ai。 # 应用描述
