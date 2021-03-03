@@ -1,4 +1,14 @@
 ## 2021
+### 3月3日
+ - 3.1.6 数据集的获取与划分
+     - 获取数据集的网站：
+       - [Kaggle数据集](http://www.kaggle.com/datasets)
+       - [亚马逊数据集](https://registry.opendata.aws)
+       - [uci机器学习库](https://archive.ics.uci.edu/ml/datasets.html)
+       - [谷歌的数据集搜索引擎](https://toolbox.google.com/datasetsearch)
+       - [微软数据集](https://msropendata.com)
+       - [计算机视觉数据集](https://www.visualdata.io)
+
 ### 3月2日
  - 3.1.4 如何做选择
  - 3.1.5 验证集与测试集的数据来源要一致

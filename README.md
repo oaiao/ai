@@ -7,7 +7,7 @@ Machine Learing
 - 安装 `jupyterlab`  设置 `访问密码`
     - 安装 jupyterlab
         ```
-        sudo pip install -i https://pypi.tuna.tsinghua.edu.cn/simple jupyterlab
+        sudo pip install --no-cache-dir -i https://mirrors.aliyun.com/pypi/simple jupyterlab
         ```
     - 设置登录密码
         ```
@@ -37,11 +37,11 @@ Machine Learing
 
 - 更新 jupyterlab
     ```
-    sudo pip install --upgrade -i https://pypi.tuna.tsinghua.edu.cn/simple jupyterlab 
+    sudo pip install --no-cache-dir --upgrade -i https://mirrors.aliyun.com/pypi/simple jupyterlab 
     ```
 - python3 环境更新 pip 模块
     ```
-    sudo python3 -m pip install --upgrade -i https://pypi.tuna.tsinghua.edu.cn/simple pip
+    sudo python3 -m pip install --upgrade -i https://mirrors.aliyun.com/pypi/simple pip
     ```
 
 ## Git 添加远程仓库
@@ -52,10 +52,16 @@ Machine Learing
 
 ## pip 安装依赖并指定版本号
     ```
-    pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow==1.12.0
+    pip install --no-cache-dir -i https://mirrors.aliyun.com/pypi/simple tensorflow==1.12.0
     ```
 
 ## Ubuntu 安装 pip3
     ```
     apt-get install python3-pip
     ```
+
+## pip 源
+```
+    https://mirrors.aliyun.com/pypi/simple
+    https://pypi.tuna.tsinghua.edu.cn/simple
+```
