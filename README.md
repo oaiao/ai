@@ -22,17 +22,13 @@ Machine Learing
         ```
 
 - 启动 jupyterlab
-    - 由于 pandas 库问题。需要先运行
-        ```
-        sudo sed -i 's/pandas.lib/pandas/g' /usr/local/lib/python3.5/dist-packages/ggplot/stats/smoothers.py
-        ```
     - 启动
         ```
         nohup jupyter notebook --ip=0.0.0.0 --port=8080 > /dev/null 2>&1 &
         ```
  
-- 创建访问链接 & 登录 jupyter
-    - 将端口号设置为 `8080`, 点击【创建链接】生成访问链接。
+- 访问 & 登录 jupyter
+    - 将端口号设置为 `8080`
     - 浏览器地址栏里粘贴 & 后边输入 /lab
 
 - 更新 jupyterlab
