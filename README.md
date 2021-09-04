@@ -1,6 +1,4 @@
-## 欢迎来到 ***
-
-Machine Learing
+## Machine Learing
 
 下面以 jupyterlab 的使用为例，简单介绍一下环境的使用。
 
