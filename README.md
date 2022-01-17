@@ -30,29 +30,29 @@
     - 浏览器地址栏里粘贴 & 后边输入 /lab
 
 - 更新 jupyterlab
-    ```
-    sudo pip install --no-cache-dir --upgrade -i https://mirrors.aliyun.com/pypi/simple jupyterlab 
-    ```
+```shell
+sudo pip install --no-cache-dir --upgrade -i https://mirrors.aliyun.com/pypi/simple jupyterlab 
+```
 - python3 环境更新 pip 模块
-    ```
-    sudo python3 -m pip install --upgrade -i https://mirrors.aliyun.com/pypi/simple pip
-    ```
+```shell
+sudo python3 -m pip install --upgrade -i https://mirrors.aliyun.com/pypi/simple pip
+```
 
 ## Git 添加远程仓库
-    ```
-    git remote add [github|仓库名] git@github.com:honghuhu/explore.git
-    git pull [github|仓库名] [分支]
-    ```
+```shell
+git remote add [github|仓库名] git@github.com:honghuhu/explore.git
+git pull [github|仓库名] [分支]
+```
 
 ## pip 安装依赖并指定版本号
-    ```
-    pip install --no-cache-dir -i https://mirrors.aliyun.com/pypi/simple tensorflow==1.12.0
-    ```
+```shell
+pip install --no-cache-dir -i https://mirrors.aliyun.com/pypi/simple tensorflow==1.12.0
+```
 
 ## Ubuntu 安装 pip3
-    ```
-    apt-get install python3-pip
-    ```
+```shell
+apt-get install python3-pip
+```
 
 ## pip 源
 ```
