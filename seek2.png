@@ -11,6 +11,12 @@
     {"key":"csp_DiDuan","name":"😊低端","type": 3,"api":"csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_CZSPP","name":"🚉厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_DY1990","name":"💐90","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_JuHuang","name":"🍞剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Fantuan","name":"🍞饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Subaibai","name":"🍞素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Qicui","name":"🍞奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nbys","name":"🍞泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lgyy","name":"🍞蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"csp_xpath_zxzj","name":"在线之家〔X〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1654481672377-1e1bf6d6-ebe2-4e1c-b7e4-5f1857d86f31.png"},
     {"key":"csp_xpath_zxzj2","name":"在线之家〔X〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1654523287934-b6cec464-d22c-4f66-b915-3646cdcb9076.png"},
@@ -110,6 +116,9 @@
     {"key":"csp_biubiu_139影视","name":"🐶139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1654750299012-c78287f1-fceb-4313-82e2-54274cc323b5.png"},
     {"key":"wabc","name":"wabc(腾讯直采)(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
     {"key":"qxsg","name":"千寻时光(聚)","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+    
+    {"key":"csp_appysv2_钟特影视","name":"📬钟特影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
+    {"key":"csp_appysv2_影视大全","name":"📬影视大全","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.okmedcos.com/api.php/v1.vod"},
     {"key":"csp_appysv2_skyv2","name":"天空V2〔Z〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
     {"key":"csp_appysv2_ysys","name":"余生影视〔Z〕","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://yu.cuicanys.cn/lvdou_api.php/v1.vod"},
     {"key":"csp_appysv2_ysm","name":"影视猫〔Z〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vip.wscyun.com/api.php/v1.vod"},
