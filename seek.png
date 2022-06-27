@@ -11,6 +11,8 @@
      {"key":"csp_DiDuan","name":"😊低端","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"csp_CZSPP","name":"🚉厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"csp_DY1990","name":"💐90","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+
      
      {"key":"csp_appysv2_影视大全","name":"📬影视大全","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.okmedcos.com/api.php/v1.vod"},
      {"key":"hycj","name":"🌹会员采集","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
@@ -43,6 +45,8 @@
      {"key":"csp_xpath_vip1280","name":"VIP电影(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1654839124224-bb5f071a-c1c7-4a3f-9fb2-783c07545b2b.png"},
      {"key":"csp_xpath_dm84","name":"动漫巴士(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1654839122326-971ae3bf-a1de-4098-a99e-a9b642b3d305.png"},
      {"key":"csp_xpath_555","name":"555(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1654839121728-8ad13892-ac75-4225-b0d9-795c86da440d.png"},
+     {"key":"csp_biubiu_4kan电影网","name":"🐶4kan电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1656341572457-87d2da9b-b7e1-4d73-a9b1-2915b70d1f3b.png"},
+     {"key":"csp_biubiu_瓜皮TV","name":"🐶瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1656341305610-87329f0c-f5c9-467c-9e5d-3c5891008219.png"},
      {"key":"csp_biubiu_liudu","name":"🐶六度TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1654495877858-181ec389-f551-4691-938a-d4f5923e2811.png"},
      {"key":"csp_biubiu_shdy","name":"🐶骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1654360226833-ce4cf0c8-cc01-419e-a574-5a924c7c04ef.png"},
      {"key":"csp_biubiu_cokemv","name":"🐶COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.nlark.com/yuque/0/2022/png/1682692/1654360114729-53c6c8d0-9350-4a7b-8230-83aa64e6c69b.png"},
