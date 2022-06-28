@@ -3,6 +3,7 @@
      {"key":"csp_Zxzj","name":"🍉在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"csp_Kunyu77","name":"🍊七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},    
+     {"key":"csp_SP360","name":"🎾360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"csp_Kuaikan","name":"🎈快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"csp_Buka","name":"🌸真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"csp_Cokemv","name":"🐮Cokemv[ijk]","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
@@ -11,8 +12,6 @@
      {"key":"csp_DiDuan","name":"😊低端","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"csp_CZSPP","name":"🚉厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"csp_DY1990","name":"💐90","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-
      
      {"key":"csp_appysv2_影视大全","name":"📬影视大全","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.okmedcos.com/api.php/v1.vod"},
      {"key":"hycj","name":"🌹会员采集","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
